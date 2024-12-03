@@ -29,7 +29,7 @@ function AboutPage() {
             <br />
             <h5>
               <strong>Email : </strong>
-              <a href="mailto:naveenkalai001.com">contact@viruchith.com</a>
+              <a href="mailto:naveenkalai001.com">naveenkalai001@gmail.com</a>
             </h5>
           </div>
         </div>
